@@ -6,7 +6,7 @@ public class switc {
             break;
             case 2: System.out.println("It's Tuesday");
             break;
-            case 3: System.out.println("It's Tuesday");
+            case 3: System.out.println("It's WEdnesday");
             break;
             case 4: System.out.println("It's Tuesday");
             break;
